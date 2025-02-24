@@ -1,0 +1,8 @@
+aiogram
+aiohttp
+requests
+json
+itertools
+re
+mnemonic
+tonutils
